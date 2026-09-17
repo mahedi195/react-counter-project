@@ -1,0 +1,33 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 100px;
+}
+
+
+.counter {
+  width: 470px;
+  /* border: 1px solid gray; */
+  padding: 10px;
+  background: #f3f3f3;
+}
+
+.count_value {
+  font-size: 6em;
+  margin-top: 0px;
+  /* margin-left: 0px; */
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.button {
+  font-size: 26px;
+  padding: 8px 18px;
+  margin-right: 10px;
+  background: #6acef7;
+  color: white;
+  border-radius: 5px;
+  border: none;
+  font-weight: bold;
+}
